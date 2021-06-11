@@ -1,5 +1,5 @@
 <?php
-$var = 10;;
+$var = 8;
 
 if ($var < 10) {
   echo "The value is below 10";
